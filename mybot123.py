@@ -1,4 +1,4 @@
-import discor
+import discord
 from discord.ext import commands
 from bot_logic import gen_pass
 
